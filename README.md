@@ -9,3 +9,4 @@
 | 14 | [Longest Collatz sequence](https://projecteuler.net/problem=14) | [Javascript](https://github.com/saqib40/Project-Euler/blob/main/Solutions/14.js) | 5% |
 | 16 | [Power digit sum](https://projecteuler.net/problem=16) | [JavaScript](https://github.com/saqib40/Project-Euler/blob/main/Solutions/16.js) | 5% |
 | 20 | [Factorial digit sum](https://projecteuler.net/problem=20) | [JavaScript](https://github.com/saqib40/Project-Euler/blob/main/Solutions/20.js) | 5% |
+| 92 | [Square digit chains](https://projecteuler.net/problem=92) | [JavaScript]() | 5% |
