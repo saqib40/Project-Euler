@@ -3,7 +3,7 @@
 
 | Problem ID | Title | Solution | Difficulty Rating |
 | --- | --- | --- | --- |
-| 1 | [Multiples of 3 or 5](https://projecteuler.net/problem=1) | [JavaScript]() | 5% |
+| 1 | [Multiples of 3 or 5](https://projecteuler.net/problem=1) | [JavaScript](https://github.com/saqib40/Project-Euler/blob/main/Solutions/1.js) | 5% |
 | 10 | [Summation of primes](https://projecteuler.net/problem=10) | [JavaScript](https://github.com/saqib40/Project-Euler/blob/main/Solutions/10.js) | 5% |
 | 12 | [Highly divisible triangular number](https://projecteuler.net/problem=12) | [JavaScript](https://github.com/saqib40/Project-Euler/blob/main/Solutions/12.js) | 5% |
 | 13 | [Large sum](https://projecteuler.net/problem=13) | [JavaScript](https://github.com/saqib40/Project-Euler/blob/main/Solutions/13.js) | 5% |
